@@ -35,4 +35,4 @@ Git & Github.
 
 -Higher salary correlates with lower absenteeism & higher engagement.
 
-The male employees earned slightly more than the female employees.
+-The male employees earned slightly more than the female employees.
