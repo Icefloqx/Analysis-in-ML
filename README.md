@@ -4,9 +4,13 @@
 This project was done to analyze a dataset of Human Resource for learning data visualization and basic regression. It contains employee-related information such as their salary, performance, and engagement indicators.
 
 The goal is to:
+
 -Find if there is any relationship between who a person works for and their performance score?
+
 -Know what the overall diversity profile of the organization is.
+
 -What are our best recruiting sources if we want to ensure a diverse organization?
+
 -Are there areas of the company where pay is not equitable?
 
 ---
@@ -14,7 +18,7 @@ The goal is to:
 ## Dataset
 THe dataset contains information such as:
 
-- **EmployeeID** – Unique identifier for each employee. 
+- **EmployeeID** – Unique identifier for each employee.
 - **Department** – Department where the employee works.
 - **Salary** – The salary each employee earns(numeric). 
 - **Absences** – Number of days absent from work.  
