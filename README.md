@@ -32,5 +32,7 @@ Git & Github.
 
 ## Key Insights
 -Married employees earned more than the single  employees.
+
 -Higher salary correlates with lower absenteeism & higher engagement.
+
 The male employees earned slightly more than the female employees.
